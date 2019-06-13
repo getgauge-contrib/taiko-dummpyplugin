@@ -1,0 +1,18 @@
+{
+  "name": "taiko-dummyplugin",
+  "version": "0.0.1",
+  "description": "A dummpy plugin for taiko.",
+  "main": "src/index.js",
+  "capability": [
+    "subcommands"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getgauge-contrib/taiko-dummyplugin.git"
+  },
+  "author": "getgauge",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
