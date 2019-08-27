@@ -13,6 +13,6 @@
   "author": "getgauge",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^6.2.2"
   }
 }
